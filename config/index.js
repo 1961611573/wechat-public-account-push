@@ -30,7 +30,7 @@ export const config = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oaxea5ihxs6_riwi-oM4aLtq03wY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Em5GsWyWo73YkA9Ox3Ngr9FFJoQPtdALmj-TQNy2_V0",
+      useTemplateId: "XJfm-b9KZYJu7HHdkOpC2unzoq5AoxQEM4Ra5N7ZuH8",
       // 所在省份
       province: "湖北",
       // 所在城市
